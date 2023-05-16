@@ -8,7 +8,7 @@ describe('Server', () => {
   // can be either it() or test()
   it('handles the root path', async () => {
     const response = await mockRequest.get('/');
-
+    // can be either toBe() or toEqual()
     expect(response.status).toBe(200);
     expect(response.text).toBeTruthy;
     expect(response.text).toEqual('proof of life');
