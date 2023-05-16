@@ -2,7 +2,7 @@
 
 ## Project: server-deployment-practice
 
-### Author: Ryan Gallaway
+### Author: Eva Grace Smith
 
 ### Problem Domain
 
