@@ -1,5 +1,5 @@
 {
-  "name": "example-server",
+  "name": "server-deployment-practice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "author": "Eva Grace Smith",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/EvaGraceSmith/server-deployment-practice/issues"
   },
