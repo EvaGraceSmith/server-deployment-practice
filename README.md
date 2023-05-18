@@ -11,14 +11,14 @@ This very basic express server is used as a base for CI/CD deployment exercises
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/EvaGraceSmith/server-deployment-practice/actions)
-- [back-end dev server url](http://xyz.com)
-- [back-end prod server url](http://xyz.com)
+- [Render](https://server-deployment-practice-bdjc.onrender.com)
 
 ### Collaborators
 
 401d53 and 401d10
 Code used with permission from Ryan Gallaway
 Collaborated with Kati Lee
+TA- Daniel Frey
 
 ### Setup
 
